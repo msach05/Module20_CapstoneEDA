@@ -7,6 +7,7 @@ This project explores the key factors associated with self-reported happiness us
 - A Jupyter notebook with comments[Notebook] (https://github.com/msach05/Module20_CapstoneEDA/blob/main/CapstoneProjectAnalysis-InitialReportAndDataAnalysis.ipynb)
 - The datafile is included in the Data Folder
 - A README document summarizing key findings (notebook link included).
+- Also added a WORD format for README
 
 ---
 
