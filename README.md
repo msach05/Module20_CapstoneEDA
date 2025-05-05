@@ -2,9 +2,9 @@
 
 ## Project Structure and Summary
 
-This project explores the key factors associated with self-reported happiness using survey data from a large dataset. It includes:
+This project explores the key factors associated with self-reported happiness using survey data from a World Value Survey(https://www.worldvaluessurvey.org/WVSDocumentationWV7.jsp) dataset. It includes:
 
-- A Jupyter notebook with comments
+- A Jupyter notebook with comments[Notebook] (https://github.com/msach05/Module20_CapstoneEDA/blob/main/CapstoneProjectAnalysis-InitialReportAndDataAnalysis.ipynb)
 - The datafile is included in the Data Folder
 - A README document summarizing key findings (notebook link included).
 
